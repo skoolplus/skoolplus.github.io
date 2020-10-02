@@ -1,4 +1,4 @@
-# Skoolplus
+# [SKOOLPLUS.GITHUB.IO](https://skoolplus.github.io)
 
 ### Showcase GitHub repositories that built in Skoolplus.
 
